@@ -32,7 +32,7 @@ export const FormInput = styled(Input)`
 `;
 
 export const SubmitButton = styled(Button)`
-  margin-top: 5px;
+  margin-top: 2px;
 `;
 
 export const LogoutButton = styled(Button)`
